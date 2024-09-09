@@ -1,0 +1,202 @@
+*{
+    margin: 0;
+}
+body{
+    font-family:"open sans", sans-serif ;
+    
+
+}
+.my-head{
+    background-color: #fff8f3;
+    background-image: url("images/header_bg.png"),url("images/developer.png");
+    background-repeat: no-repeat;
+    background-position: bottom right,left;
+}
+.mary-nav-bar{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding-top: 50px;
+}
+.color{
+        color: #FD6E0A;
+    }
+.title{
+    font-weight: 800;
+    font-size: 45px;
+}
+.soja-kor{
+    display: flex;
+    align-items: center;
+    list-style: none;
+}
+.color{
+color: #FD6E0A;
+}
+ul li{
+    margin-right: 50px;
+}
+li a{
+    text-decoration: none;
+    color: #474747;
+}
+li button{
+    background-color: #FD6E0A;
+    border: none;
+    padding: 15px 30px;
+    color: white;
+    border-radius: 5px;
+    font-weight: 700;
+    font-size: 20px;
+}
+/*Hardy vai er kaj  */ 
+.Mary-hardy{ 
+display: flex;
+align-items: center;
+padding: 40px 30px 0px 200px;
+margin-top: 185px;
+
+}
+.display{
+    display: flex;
+}
+.hi{
+    font-weight: 600;
+    font-size: 45px;
+    color: #474747;
+}
+.mary2{
+    font-weight: 700;
+    font-size: 85px;
+}
+.p-tag{
+    font-weight: 400;
+    font-size: 18;
+    color: #757575;
+}
+.d-button{
+    background-color: #FD6E0A;
+    color: white;
+    padding: 15px 30px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 30px;
+}
+.c-button{
+    border: 1px solid #FD6E0A;
+    color: #FD6E0A;
+    padding: 13px 24px;
+    border-radius: 5px;
+    background-color: white;
+    margin-left: 30px;
+    font-weight: 700;
+    font-size: 20px;
+}
+/* about section */
+.main-first-section{
+    background-color: #fff8f3;
+    padding: 130px 150px;
+    margin: 130px 230px;
+    text-align: center;
+    border-radius: 0px;
+    /* height:550px;
+    width:1140px;
+    margin: auto; */
+    text-align: center;
+}
+.Amain{
+    padding-bottom: 30px;
+    font-weight: 700;
+    font-size: 35px;
+}
+.About{
+    display: center;
+    padding-bottom: 30px;
+    justify-content: space-around;
+    font-weight: 700;
+    font-size: 35px;
+
+}
+.About-Me{
+    display: flex;
+   
+    padding-top: 30px;
+}
+.sub-about-me{
+    
+    margin-left: 50px;
+}
+.faka{
+    font-weight: 700;
+    font-size: 20px;
+}
+.bold{
+    font-weight: 700;
+    font-size: 20px;
+}
+.lekha-choto{
+    font-size: 18px;
+    font-weight: 400;
+    color: #a8a6a8;
+}
+.Amain{
+    /* padding-bottom: 0px 30px 138px; */
+    /* background-color: #fff8f3; */
+    margin-left: 700px;
+    margin-bottom: 30px;
+}
+.i-have{
+margin-left: 345px;
+margin-right:345px;
+padding-bottom: 66px;
+color: #474747;
+}
+/* what-I-do */
+.what-section{
+    text-align: center;
+    margin: 0px 200px 130px 200px;
+    display: flex;
+}
+.vitor-ante-chai{
+    text-align: center;
+    margin: 0px 100px 50px 100px;
+}
+.what-i-do{
+    /* display: flex; */
+}
+ .box{
+    border: 2px solid green;
+    border-radius: 5px;
+    background-color: #ffffff;
+    padding: 30px;
+    margin-right: 24px;
+    box-shadow: 0px 6px 50px 0px rgb(176, 173, 173);
+ }   
+ .i-has{
+    text-align: center;
+    margin: 0px 200px 130px 200px;
+ }
+ 
+ .display-div{
+    display: flex;
+    margin-left: 230px;
+    margin-right: 277px;
+    margin-bottom: 45px;
+ }
+ .Education-div{
+    font-weight: 700;
+    padding-top: 30px;
+    font-size: 30px;
+    margin-bottom: 30px;
+ }
+ 
+ .hh{
+    margin-left:24px ;
+ }
+.move{
+    margin-bottom: 20px;
+    margin-top: 30px;
+}
+.summary{
+    margin-bottom: 10px;
+}
